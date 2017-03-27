@@ -138,7 +138,8 @@ interpreted as described in [@RFC2119].
 
 # Process Overview
 
-## Identifying the Registrar
+## Identifying the Registrar (or registry or reseller) The DNSSEC Parental Agent
+(JACQUES: testing in github direct change)
 
 As of publication of this document, there has never been a standardized or
 widely deployed method for easily and scalably identifying the Registar for a
